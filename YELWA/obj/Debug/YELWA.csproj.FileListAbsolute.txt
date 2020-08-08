@@ -1,0 +1,515 @@
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\bin\Debug\YELWA.exe.config
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\bin\Debug\YELWA.exe
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\bin\Debug\YELWA.pdb
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.Form1.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmAbout.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmAddNewUser.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmAddStudent.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmAllRecord.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmChangePassword.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear1CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear2CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear3CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear1CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear2CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmCourseRegister.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmExpenses.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmForgotPassword.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear1CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear2CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear3CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmHelp.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear1CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear2CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear3CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmNewPassword.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear1CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear2CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear3CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear1CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear2CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear3CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmReceipt.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmSchoolFeePayment.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmShowExpensesRecord.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmShowReceiptRecord.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmShowSchoolFeePayment.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmShowStaffAttendanceRecord.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmStaff.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmStaffAttendance.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmStaffRecord.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmStudentRecord.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmYears.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.mParent.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.Properties.Resources.resources
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.exe
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.pdb
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\bin\Debug\YELWA.exe.manifest
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\bin\Debug\YELWA.application
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.exe.manifest
+C:\Users\lenovo\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.application
+D:\yeluwa\YELWA\YELWA\bin\Debug\YELWA.exe.config
+D:\yeluwa\YELWA\YELWA\obj\Debug\YELWA.exe
+D:\yeluwa\YELWA\YELWA\obj\Debug\YELWA.pdb
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\bin\Debug\YELWA.exe.config
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.exe
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.pdb
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\bin\Debug\YELWA.exe.manifest
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\bin\Debug\YELWA.application
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\bin\Debug\YELWA.exe
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\bin\Debug\YELWA.pdb
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.Form1.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmAbout.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmAddNewUser.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmAddStudent.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmAllRecord.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmChangePassword.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear1CourseForm.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear2CourseForm.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear3CourseForm.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear1CourseForm.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear2CourseForm.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmCourseRegister.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmExpenses.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmForgotPassword.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear1CourseForm.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear2CourseForm.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear3CourseForm.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmHelp.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear1CourseForm.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear2CourseForm.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear3CourseForm.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmNewPassword.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear1CourseForm.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear2CourseForm.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear3CourseForm.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear1CourseForm.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear2CourseForm.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear3CourseForm.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmReceipt.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmSchoolFeePayment.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmShowExpensesRecord.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmShowReceiptRecord.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmShowSchoolFeePayment.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmShowStaffAttendanceRecord.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmStaff.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmStaffAttendance.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmStaffRecord.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmStudentRecord.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.frmYears.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.mParent.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.Properties.Resources.resources
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.exe.manifest
+C:\Users\HP\Desktop\yeluwa\YELWA\YELWA\obj\Debug\YELWA.application
+D:\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.exe.config
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.exe
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.pdb
+D:\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.exe.manifest
+D:\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.application
+D:\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.exe
+D:\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.pdb
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.Form1.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmAbout.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmAddNewUser.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmAddStudent.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmAllRecord.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmChangePassword.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear1CourseForm.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear2CourseForm.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear3CourseForm.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear1CourseForm.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear2CourseForm.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCourseRegister.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmExpenses.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmForgotPassword.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear1CourseForm.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear2CourseForm.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear3CourseForm.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmHelp.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear1CourseForm.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear2CourseForm.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear3CourseForm.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmNewPassword.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear1CourseForm.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear2CourseForm.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear3CourseForm.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear1CourseForm.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear2CourseForm.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear3CourseForm.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmReceipt.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmSchoolFeePayment.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowExpensesRecord.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowReceiptRecord.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowSchoolFeePayment.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowStaffAttendanceRecord.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmStaff.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmStaffAttendance.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmStaffRecord.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmStudentRecord.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.mParent.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.Properties.Resources.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.csproj.GenerateResource.Cache
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.exe.manifest
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.application
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.csprojResolveAssemblyReference.cache
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmshowcourse.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.csprojResolveAssemblyReference.cache
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.Form1.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmAbout.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmAddNewUser.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmAddStudent.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmAllRecord.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmChangePassword.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear1CourseForm.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear2CourseForm.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear3CourseForm.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear1CourseForm.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear2CourseForm.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCourseRegister.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmExpenses.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmForgotPassword.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear1CourseForm.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear2CourseForm.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear3CourseForm.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmHelp.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear1CourseForm.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear2CourseForm.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear3CourseForm.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmNewPassword.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear1CourseForm.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear2CourseForm.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear3CourseForm.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear1CourseForm.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear2CourseForm.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear3CourseForm.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmReceipt.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmSchoolFeePayment.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmshowcourse.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowExpensesRecord.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowReceiptRecord.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowSchoolFeePayment.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowStaffAttendanceRecord.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmStaff.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmStaffAttendance.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmStaffRecord.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmStudentRecord.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.mParent.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.Properties.Resources.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.csproj.GenerateResource.Cache
+G:\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.exe.config
+G:\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.exe.manifest
+G:\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.application
+G:\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.exe
+G:\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.pdb
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.exe.manifest
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.application
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.exe
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.pdb
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowLogins.resources
+G:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowReport.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.exe.config
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.exe.manifest
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.application
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.exe
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.pdb
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\bin\Debug\CircularProgressBar.dll
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\bin\Debug\WinFormAnimation.dll
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.Form1.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmAbout.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmAddNewUser.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmAddStudent.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmAllRecord.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmChangePassword.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear1CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear2CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear3CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear1CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear2CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCourseRegister.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmExpenses.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmForgotPassword.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear1CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear2CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear3CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmHelp.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear1CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear2CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear3CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmNewPassword.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear1CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear2CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear3CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear1CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear2CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear3CourseForm.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmReceipt.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmSchoolFeePayment.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmshowcourse.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowExpensesRecord.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowLogins.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowReceiptRecord.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowReport.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowSchoolFeePayment.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowStaffAttendanceRecord.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmStaff.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmStaffAttendance.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmStaffRecord.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmStudentRecord.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmUpdateStudentRecord.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.mParent.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.Properties.Resources.resources
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.exe.manifest
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.application
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.exe
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.pdb
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\yeluwa\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmUpdateStaffRecord.resources
+D:\yeluwa bursar\YELWA\YELWA\bin\Debug\CircularProgressBar.dll
+D:\yeluwa bursar\YELWA\YELWA\bin\Debug\WinFormAnimation.dll
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowLogins.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowReport.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmUpdateStaffRecord.resources
+D:\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmUpdateStudentRecord.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.exe.config
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.exe.manifest
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.application
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.exe
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\bin\Debug\YELWA.pdb
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\bin\Debug\CircularProgressBar.dll
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\bin\Debug\WinFormAnimation.dll
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.Form1.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmAbout.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmAddNewUser.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmAddStudent.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmAllRecord.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmChangePassword.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear1CourseForm.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear2CourseForm.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear3CourseForm.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear1CourseForm.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear2CourseForm.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmCourseRegister.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmExpenses.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmForgotPassword.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear1CourseForm.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear2CourseForm.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear3CourseForm.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmHelp.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear1CourseForm.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear2CourseForm.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear3CourseForm.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmNewPassword.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear1CourseForm.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear2CourseForm.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear3CourseForm.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear1CourseForm.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear2CourseForm.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear3CourseForm.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmReceipt.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmSchoolFeePayment.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmshowcourse.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowExpensesRecord.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowLogins.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowReceiptRecord.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowReport.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowSchoolFeePayment.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmShowStaffAttendanceRecord.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmStaff.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmStaffAttendance.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmStaffRecord.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmStudentRecord.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmUpdateStaffRecord.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.frmUpdateStudentRecord.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.mParent.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.Properties.Resources.resources
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.exe.manifest
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.application
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.exe
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.pdb
+C:\Users\USER\Desktop\yeluwa bursar\YELWA\YELWA\obj\Debug\YELWA.csprojResolveAssemblyReference.cache
+C:\wamp64\read me\YELWA\YELWA\bin\Debug\YELWA.exe.config
+C:\wamp64\read me\YELWA\YELWA\obj\Debug\YELWA.exe
+C:\wamp64\read me\YELWA\YELWA\obj\Debug\YELWA.pdb
+C:\read\YELWA\YELWA\bin\Debug\YELWA.exe.config
+C:\read\YELWA\YELWA\obj\Debug\YELWA.exe
+C:\read\YELWA\YELWA\obj\Debug\YELWA.pdb
+C:\read\YELWA\YELWA\bin\Debug\YELWA.exe.manifest
+C:\read\YELWA\YELWA\bin\Debug\YELWA.application
+C:\read\YELWA\YELWA\bin\Debug\YELWA.exe
+C:\read\YELWA\YELWA\bin\Debug\YELWA.pdb
+C:\read\YELWA\YELWA\bin\Debug\CircularProgressBar.dll
+C:\read\YELWA\YELWA\bin\Debug\WinFormAnimation.dll
+C:\read\YELWA\YELWA\obj\Debug\YELWA.csprojResolveAssemblyReference.cache
+C:\read\YELWA\YELWA\obj\Debug\YELWA.Form1.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmAbout.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmAddNewUser.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmAddStudent.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmAllRecord.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmChangePassword.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear1CourseForm.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear2CourseForm.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear3CourseForm.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear1CourseForm.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear2CourseForm.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmCourseRegister.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmExpenses.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmForgotPassword.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear1CourseForm.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear2CourseForm.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear3CourseForm.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmHelp.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear1CourseForm.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear2CourseForm.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear3CourseForm.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmNewPassword.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear1CourseForm.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear2CourseForm.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear3CourseForm.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear1CourseForm.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear2CourseForm.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear3CourseForm.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmReceipt.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmSchoolFeePayment.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmshowcourse.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmShowExpensesRecord.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmShowLogins.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmShowReceiptRecord.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmShowReport.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmShowSchoolFeePayment.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmShowStaffAttendanceRecord.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmStaff.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmStaffAttendance.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmStaffRecord.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmStudentRecord.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmUpdateStaffRecord.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.frmUpdateStudentRecord.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.mParent.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.Properties.Resources.resources
+C:\read\YELWA\YELWA\obj\Debug\YELWA.csproj.GenerateResource.Cache
+C:\read\YELWA\YELWA\obj\Debug\YELWA.exe.manifest
+C:\read\YELWA\YELWA\obj\Debug\YELWA.application
+D:\yeluwa bursar\yelwa\YELWA\YELWA\bin\Debug\YELWA.exe.config
+D:\yeluwa bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.exe
+D:\yeluwa bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.pdb
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\bin\Debug\YELWA.exe.config
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.exe
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.pdb
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\bin\Debug\YELWA.exe.manifest
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\bin\Debug\YELWA.application
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\bin\Debug\YELWA.exe
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\bin\Debug\YELWA.pdb
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\bin\Debug\CircularProgressBar.dll
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\bin\Debug\WinFormAnimation.dll
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.Form1.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmAbout.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmAddNewUser.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmAddStudent.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmAllRecord.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmChangePassword.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear1CourseForm.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear2CourseForm.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear3CourseForm.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear1CourseForm.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear2CourseForm.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmCourseRegister.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmExpenses.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmForgotPassword.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear1CourseForm.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear2CourseForm.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear3CourseForm.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmHelp.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear1CourseForm.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear2CourseForm.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear3CourseForm.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmNewPassword.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear1CourseForm.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear2CourseForm.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear3CourseForm.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear1CourseForm.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear2CourseForm.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear3CourseForm.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmReceipt.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmSchoolFeePayment.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmshowcourse.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmShowExpensesRecord.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmShowLogins.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmShowReceiptRecord.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmShowReport.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmShowSchoolFeePayment.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmShowStaffAttendanceRecord.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmStaff.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmStaffAttendance.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmStaffRecord.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmStudentRecord.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmUpdateStaffRecord.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmUpdateStudentRecord.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.mParent.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.Properties.Resources.resources
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.csproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.exe.manifest
+D:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.application
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\bin\Debug\YELWA.exe.config
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.exe
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.pdb
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\bin\Debug\YELWA.exe.manifest
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\bin\Debug\YELWA.application
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\bin\Debug\YELWA.exe
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\bin\Debug\YELWA.pdb
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\bin\Debug\CircularProgressBar.dll
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\bin\Debug\WinFormAnimation.dll
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.Form1.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmAbout.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmAddNewUser.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmAddStudent.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmAllRecord.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmChangePassword.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear1CourseForm.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear2CourseForm.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthCheYear3CourseForm.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear1CourseForm.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmCommunityHealthJchYear2CourseForm.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmCourseRegister.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmExpenses.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmForgotPassword.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear1CourseForm.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear2CourseForm.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmHeathYear3CourseForm.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmHelp.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear1CourseForm.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear2CourseForm.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmMedicalYear3CourseForm.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmNewPassword.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear1CourseForm.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear2CourseForm.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmNursingAidsYear3CourseForm.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear1CourseForm.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear2CourseForm.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmPharmacyYear3CourseForm.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmReceipt.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmSchoolFeePayment.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmshowcourse.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmShowExpensesRecord.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmShowLogins.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmShowReceiptRecord.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmShowReport.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmShowSchoolFeePayment.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmShowStaffAttendanceRecord.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmStaff.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmStaffAttendance.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmStaffRecord.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmStudentRecord.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmUpdateStaffRecord.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.frmUpdateStudentRecord.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.mParent.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.Properties.Resources.resources
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.csproj.GenerateResource.Cache
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.exe.manifest
+E:\Visual Studio 2012\Projects\zala bursar\yelwa\YELWA\YELWA\obj\Debug\YELWA.application
